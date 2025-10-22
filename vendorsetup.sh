@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_KY-41C-user
-add_lunch_combo omni_KY-41C-userdebug
-add_lunch_combo omni_KY-41C-eng
+add_lunch_combo twrp_KY-41C-user
+add_lunch_combo twrp_KY-41C-userdebug
+add_lunch_combo twrp_KY-41C-eng

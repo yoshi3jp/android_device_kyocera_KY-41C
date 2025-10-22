@@ -6,3 +6,6 @@
 #
 
 LOCAL_PATH := device/kyocera/KY-41C
+
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/root,recovery/root) \
+        $(LOCAL_PATH)/prebuilt/dtb.img:dtb.img
